@@ -1,0 +1,12 @@
+1. WAPT print numbers from 0-9.
+2. WAPT print all even numbers between 1 to 100.
+3. WAPT print tables of given numbers, take input from user.
+4. WAPT find sum of 'n' natural numbers.
+5. WAPT print one by one value from given list.
+6. WAPT print elements of list are even or odd.
+7. WAPT print even number from 0 to 20 in  single line.
+8. WAPT check given number is palindrome or not.
+9. WAPT check given number is palindrome or not without using typecasting.
+10. WAPT print sum of numbers by taking start and end number from user.
+11. WAPT print sum of all integer number in a list.
+12. WAPT extract vowels & digits from given string, s="hello world 123 hai".
