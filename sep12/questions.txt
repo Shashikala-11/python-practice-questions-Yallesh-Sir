@@ -1,0 +1,16 @@
+###     Questions using if statement       ###
+
+1. WAPT check if number is even or not.
+2. WAPT check if number is positive or not.
+3. WAPT check if number divisible by 5 and 3.
+4. WAPT check whether string starts with vowel.
+5. WAPT check whether given character is uppercase (using built-ins) and (without built-ins).
+6. WAPT check given data list or not.
+
+
+### Questions using if-else statement   ###
+
+7. WAPT check given character is lowercase
+8. WAPT check given character is special character or not.
+9. WAPT check whether the given data is single value datatype or not
+10. WAPT check whether the given string is having more than 5 characters or not.
