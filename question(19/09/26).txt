@@ -1,0 +1,8 @@
+1. WAPT relation between two numbers.
+2. WAPT user entered num is divisible by  and 3 . if user enterd num is divisible by only 5 print "python class is good" . if user enterd num is divisible only 3 then sql class is good.if user entered num is divisble by both then print "any class in qspider is good"
+3. WAPT get greatest among four different integer numbers.
+4. WAPT given character is either uppercase or lowercase or digit or special character.
+5. WAPT given character is alphabet or not . if its alphabet then check it is vowel or not.
+6. WAPT check given data is multivalued datatype or not if its multivalued datatype then check whether it is mutable or immuatable type.
+7. WAPT for verifying login credentials. or implement logic of login page.First validate the username by comparing with the given username ='PYSpider' then collect the password and verify it password='PY@123' if password and username if matched then print login successful otherwise print which input is wrong particularly. 
+8. WAPT print python is easy for 5 times 
